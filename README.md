@@ -47,3 +47,11 @@
 [![Download APK](https://img.shields.io/badge/📱_Скачать_APK-v1.0-brightgreen?style=for-the-badge)](https://github.com/Frellest/voice-note/blob/main/releases/voice-note-v1.0.apk)
   
 **Версия 1.0** (23 марта 2026)
+### Требования
+
+| Требование | Минимум |
+|------------|---------|
+| Android | 8.0 (API 26) |
+| Свободное место | ~30 MB |
+| Интернет | Только для AI-функций |
+| Микрофон | Для голосового ввода |
